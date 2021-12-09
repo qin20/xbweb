@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://xb.vengogh.com/小白剪辑 Setup 1.0.0.exe"
           target="_blank"
           rel="noopener noreferrer"
         >
